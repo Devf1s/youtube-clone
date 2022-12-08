@@ -28,6 +28,8 @@ function VideoDetail() {
 		statistics: { viewCount, likeCount } 
 	} = videoDetail;
 
+	const origin = 'https://1kiritos1.github.io/' // http://127.0.0.1:5173
+
 	return (
 		<Box minHeight="95vh">
 			<Stack direction={{ xs: 'column', md: 'row' }}>
@@ -41,7 +43,7 @@ function VideoDetail() {
 					>
 						<ReactPlayer 
 							url={`https://www.youtube.com/watch?v=${id}` 
-							+ '?showinfo=0&enablejsapi=1&origin=http://127.0.0.1:5173'} // origin
+							+ `?showinfo=0&enablejsapi=1&origin=${origin}`} 
 							className="react-player"
 							controls
 						/>
