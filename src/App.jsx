@@ -8,7 +8,7 @@ function App() {
 		<Router>
 			<Box>
 				<Navbar />
-				<Routes>
+				<Routes basename="/youtube-clone">
 					<Route exact path="/" element={<Feed />} />
 					<Route path="/video/:id" element={<VideoDetail />} />
 					<Route path="/channel/:id" element={<ChannelDetail />} />
