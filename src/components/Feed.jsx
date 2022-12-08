@@ -68,7 +68,7 @@ function Feed() {
 					
 				<Videos videos={videos} />
 			</Box>
-		</Stack>
+		</Stack> || <Loader/>
 	)
 }
 export default Feed;
