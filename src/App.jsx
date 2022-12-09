@@ -5,7 +5,7 @@ import { Navbar, Feed, VideoDetail, ChannelDetail, SearchFeed } from './componen
 
 function App() {
 	return (
-		<Router basename="/youtube-clone">
+		<Router>
 			<Box>
 				<Navbar />
 				<Routes>
