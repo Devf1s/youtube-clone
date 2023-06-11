@@ -24,7 +24,7 @@ const BASE_URL = 'https://youtube.googleapis.com/youtube/v3';
 
 const options = {
 	params: {
-		key: 'AIzaSyAJ4lOcDs5dpZVdGw4IEgVFE5MB-xCUqQ8',
+		key: 'AIzaSyDt5UiC0GjBFC8rbn7ZTMM7cc06hl0l_Fg',
 		maxResults: '50'
 	}
 };
