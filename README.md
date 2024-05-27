@@ -1,6 +1,6 @@
 Youtube Clone 
 ===========
-**[Youtube Clone](https://1kiritos1.github.io/youtube-clone/) Application using React + Vite.js & Material UI** 
+**[Youtube Clone](https://devf1s.github.io/youtube-clone/) Application using React + Vite.js & Material UI** 
 
 [![Youtube Clone](https://lh3.googleusercontent.com/pw/AL9nZEWe_5k94Kx2VBmS5FxCpH2NvIZ0QN0-KmCFL1vHHHwUkIjXU7RM9SyDrTBd_sqiIcOAWoTSY9p0eX12T7HycWmdZnA-AP-bAk8kd8QCFfceTw1tNKP3B3jpf-8l1SfMAhO2cRoMSFDu6597nH5-sUbJ=w1880-h929-no?authuser=0)](https://1kiritos1.github.io/youtube-clone/) 
 
